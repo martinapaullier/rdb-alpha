@@ -122,3 +122,5 @@ echo hello terminal
 "Step 3 done"
 pwd
 ls --color=auto
+__vsc_prompt_cmd_original
+cd freeCodeCamp
